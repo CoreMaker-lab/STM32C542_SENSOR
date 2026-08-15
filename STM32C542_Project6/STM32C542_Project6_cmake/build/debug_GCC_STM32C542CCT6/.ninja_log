@@ -1,0 +1,26 @@
+# ninja log v5
+29	686	8084737493757216	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_cortex_nvic.c.obj	1600d8db0ce40236
+14	705	8084737493931903	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_cortex_debug.c.obj	3c100aaf7bf2a07a
+108	720	8084737494011873	CMakeFiles/STM32C542_Project6.dir/user_modifiable/Device/STM32C542CCT6/startup_stm32c542xx.c.obj	2636ee7d350f388a
+21	720	8084737494386456	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_cortex_mpu.c.obj	bbbb44cf574557cc
+5	724	8084737494561229	CMakeFiles/STM32C542_Project6.dir/main.c.obj	240923caa92d1b80
+37	757	8084737495142527	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_dac1.c.obj	a52ea1568afa2b29
+69	791	8084737495393608	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_rcc.c.obj	a8b139dd0d3bd3ec
+51	814	8084737495633731	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_icache.c.obj	8186da8320d73902
+100	826	8084737495833670	CMakeFiles/STM32C542_Project6.dir/user_modifiable/Device/STM32C542CCT6/system_stm32c5xx.c.obj	6ef1c1a960aaca8e
+84	839	8084737495978544	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_system.c.obj	a23664f83de03f70
+95	889	8084737496468768	CMakeFiles/STM32C542_Project6.dir/generated/hal/mx_usart1.c.obj	7d1154148f6125ae
+199	936	8084737496941035	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c.obj	a5613c87e399f175
+116	943	8084737497011028	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal.c.obj	cc1c6219bf89030f
+128	944	8084737497046327	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_dac.c.obj	966b59e3abd3f6ed
+137	945	8084737497016218	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_dma.c.obj	1ba29441b616066e
+122	945	8084737497070415	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c.obj	7b3999ef5cd49884
+190	953	8084737497112274	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c.obj	88c66eccc1995bf2
+205	953	8084737497152146	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_q.c.obj	bd0005c488c1c743
+175	973	8084737497353201	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c.obj	9d6e82d1e9811e77
+688	992	8084737497577979	CMakeFiles/STM32C542_Project6.dir/utilities/syscalls/syscalls.c.obj	ca459f0b7370fab3
+148	1005	8084737497710826	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c.obj	d1db539299f5ed14
+705	1013	8084737497805175	CMakeFiles/STM32C542_Project6.dir/utilities/syscalls/sysmem.c.obj	c854a28ac826953b
+213	1054	8084737498210276	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c.obj	1a259a7a786b6367
+218	1123	8084737498908097	CMakeFiles/STM32C542_Project6.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_uart.c.obj	4b8bb80acc24e3ff
+1123	1334	8084737500948038	STM32C542_Project6.elf	40e584ea7c474794
